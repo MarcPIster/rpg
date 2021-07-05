@@ -1,0 +1,9 @@
+my_rpg
+**/.vscode
+**/*.vgcore
+**/*.o
+**/*.a
+*.DS
+*.DS_Store
+test.c
+possible_basic_structure/
