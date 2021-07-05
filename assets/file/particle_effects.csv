@@ -1,0 +1,4 @@
+name,texture path,animation height,animation width,image height,image width,animation count
+use item,./assets/sprites/particleeffects/useitem/useitemparticle.png,192,192,576,960,15
+equip item,./assets/sprites/particleeffects/equipitem/equipitemparticle.png,154,192,670,915,20
+complete quest,./assets/sprites/particleeffects/quest/questfinishparticle.png,192,192,768,960,20

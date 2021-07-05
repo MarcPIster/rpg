@@ -1,0 +1,8 @@
+objective,quest text at meeting,item reward index,mob to kill index(-2 from csv index),exp reward,atk reward,magic reward,def reward,item to loot index
+Defeat the Dragon Emperor,If you want to live another day better make sure the Dragon Emperor doesn't.,15,10,200,3,0,3,-1
+Loot a flying skull tooth,If you dont break the Flying skull while fighting it. You can then take one of its teeth as a powerful trinket,5,-1,200,0,5,0,24
+Defeat a Fallen Warrior,Fallen Warriors are running around looting everything. Defeat one to test your might.,3,14,800,1,1,1,-1
+Looking for a stick,Heey you.. Yeah i mean you...  Search a stick for me. You will not regret it,22,-1,200,5,0,0,24
+Kill a Pheonix,You have to help me. Prove yourself and kill a Pheonix. It will be worth for you.,14,1,200,0,5,0,-1
+Loot a Health Potion,Hey. You looks like you need a Healts Potion. Go and loot one,3,-1,200,1,1,1,1
+Tutorial,Hey you. You better back up. It is a rough place here.To escape the dungeon you have to climb until floor 10 and beat the Dragon. But lets start easy. Just beat this dude over there. Good luck.,0,0,200,1,1,1,-1

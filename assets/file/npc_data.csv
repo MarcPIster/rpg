@@ -1,0 +1,6 @@
+" name",walking anim,face,animation height,animation width,anim rows,anim cols,X,Y,movespeed,aggrorange,has spawned,gives quest number index (so -1),spawnlevel
+"Dungeon Cowboy",./assets/sprites/npcs/DungeonCowboy/walking.png,./assets/sprites/npcs/DungeonCowboy/face.png,48,47,4,3,640,350,60,1000,0,7,0
+"Nice Lady",./assets/sprites/npcs/nicelady/walking.png,./assets/sprites/npcs/nicelady/face.png,48,47,4,3,600,600,80,150,0,2,-1
+"Rogue",./assets/sprites/npcs/rogue/walking.png,./assets/sprites/npcs/rogue/face.png,48,47,4,3,550,500,80,100,0,3,2
+"Enchantress",./assets/sprites/npcs/enchantress/walking.png,./assets/sprites/npcs/enchantress/face.png,48,47,4,3,500,500,80,100,0,4,3
+"Admiral",./assets/sprites/npcs/admiral/walking.png,./assets/sprites/npcs/admiral/face.png,48,47,4,3,450,450,80,1000,0,1,1

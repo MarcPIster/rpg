@@ -1,0 +1,26 @@
+name,on-use hp mod,on-use maxhp mod,on-use atk mod,on-use def mod,on-use speed mod,on-use mvspeed mod,on-use mag mod,equippable,equipped
+Minor Health Potion,2,0,0,0,0,0,0,0,0
+Health Potion,5,0,0,0,0,0,0,0,0
+Health Buff Potion,0,10,0,0,0,0,0,0,0
+Big Health Potion,8,0,0,0,0,0,0,0,0
+Super Health Potion,5,5,0,0,0,0,0,0,0
+Tricky Healing Potion,5,-2,0,0,0,0,0,0,0
+Attack Potion,0,0,2,0,0,0,0,0,0
+Defense Potion,0,0,0,2,0,0,0,0,0
+Speed Potion,0,0,0,0,2,0,0,0,0
+Sprint Potion,0,0,0,0,0,1,0,0,0
+Magic Potion,0,0,0,0,0,0,1,0,0
+Tasty Pizza,5,3,0,0,0,0,0,0,0
+Staff of the dark mage,0,0,1,0,0,1,15,1,0
+Steel Sword,0,0,2,0,0,0,0,1,0
+Westarzor's Bow,0,0,10,0,0,0,0,1,0
+Marc's Ray Gun,0,0,50,-6,0,0,0,1,0
+Lightning Bow,0,0,15,0,5,0,0,1,0
+Stick,0,0,3,0,1,0,0,1,0
+Spiky Shield,0,0,5,30,0,0,0,1,0
+"Big Sledge ",0,0,30,0,-8,-2,0,1,0
+Bloody Knife,0,0,20,-5,5,3,0,1,0
+Luke's Lightsaber,0,0,20,10,2,0,0,1,0
+Rod of the Archangel,0,0,1,0,0,1,30,1,0
+Super Jordans,0,0,0,2,0,8,0,1,0
+Flying Skull Tooth,0,60,0,0,0,0,15,1,0
